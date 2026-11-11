@@ -1,0 +1,19 @@
+{
+  "%n tracks selected": { "one": "%n track selected", "other": "%n tracks selected" },
+  "%n tracks": { "one": "%n track", "other": "%n tracks" },
+  "%n unsaved": { "one": "%n unsaved", "other": "%n unsaved" },
+  "%n selected": { "one": "%n selected", "other": "%n selected" },
+  "%n tracks edited.": { "one": "%n track edited.", "other": "%n tracks edited." },
+  "%n tracks loaded.": { "one": "%n track loaded.", "other": "%n tracks loaded." },
+  "Cover art updated for %n tracks.": { "one": "Cover art updated for %n track.", "other": "Cover art updated for %n tracks." },
+  "Cover art removed from %n tracks.": { "one": "Cover art removed from %n track.", "other": "Cover art removed from %n tracks." },
+  "%n files saved.": { "one": "%n file saved.", "other": "%n files saved." },
+  "Column visibility": "Column visibility",
+  "Show or hide columns in the track list.": "Show or hide columns in the track list.",
+  "MusicBrainz release ID": "MusicBrainz release ID",
+  "MusicBrainz album ID": "MusicBrainz album ID",
+  "MusicBrainz album artist ID": "MusicBrainz album artist ID",
+  "MusicBrainz artist ID": "MusicBrainz artist ID",
+  "MusicBrainz track ID": "MusicBrainz track ID",
+  "MusicBrainz release group ID": "MusicBrainz release group ID"
+}

@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="TrackRow.qml">TrackRow.qml</file>
+        <file alias="TagEditor.qml">TagEditor.qml</file>
+        <file alias="icons/open-folder.svg">icons/open-folder.svg</file>
+        <file alias="icons/open-files.svg">icons/open-files.svg</file>
+        <file alias="icons/play.svg">icons/play.svg</file>
+        <file alias="icons/save.svg">icons/save.svg</file>
+        <file alias="icons/undo.svg">icons/undo.svg</file>
+        <file alias="icons/redo.svg">icons/redo.svg</file>
+        <file alias="icons/select-all.svg">icons/select-all.svg</file>
+        <file alias="icons/cover.svg">icons/cover.svg</file>
+        <file alias="icons/help.svg">icons/help.svg</file>
+        <file alias="icons/chevron-down.svg">icons/chevron-down.svg</file>
+        <file alias="i18n/en.json">i18n/en.json</file>
+        <file alias="i18n/da.json">i18n/da.json</file>
+        <file alias="skill/SKILL.md">skill/SKILL.md</file>
+    </qresource>
+</RCC>

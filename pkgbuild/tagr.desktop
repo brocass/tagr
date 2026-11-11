@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Tagr
+Name[da]=Tagr
+Comment=Edit audio tags natively on Omarchy
+Comment[da]=Rediger musiktags nativt i Omarchy
+Exec=tagr open %F
+Icon=tagr
+Terminal=false
+Categories=AudioVideo;Audio;
+Keywords=audio;music;tags;metadata;mp3;flac;
+Keywords[da]=lyd;musik;tags;metadata;mp3;flac;
+StartupWMClass=tagr
+MimeType=audio/mpeg;audio/mp3;audio/flac;audio/x-flac;audio/mp4;audio/x-m4a;audio/ogg;audio/vorbis;audio/opus;audio/x-wav;audio/wav;audio/vnd.wave;audio/x-aiff;audio/aiff;audio/x-ape;audio/ape;audio/x-wavpack;audio/x-musepack;audio/musepack;video/mp4;
